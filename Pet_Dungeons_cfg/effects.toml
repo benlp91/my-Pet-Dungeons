@@ -1,0 +1,37 @@
+# KeeperFX Effects Configuration file
+# file version 15
+# Contains Effects, EffectGenerators and EffectElements
+
+[effect1]
+Name = "EFFECT_EXPLOSION_1"
+Health = 1
+GenerationType = 1
+GenerationAccelXYRange = [32,32]
+GenerationAccelZRange = [-32,32]
+GenerationKindRange = [1,1]
+AreaAffectType = 0
+HitType = 0
+Sound = 0
+AffectedByWind = 1
+LightRadius = 2
+LightIntensity = 45
+LightFlags = 1
+ElementsCount = 1
+AlwaysGenerate = 0
+
+[effect80]
+Name = "EFFECT_FEAR_CIRCLE"
+Health = 15
+GenerationType = 1
+GenerationAccelXYRange = [80,120]
+GenerationAccelZRange = [-120,120]
+GenerationKindRange = [122,122]
+AreaAffectType = 0
+HitType = 4
+Sound = 0
+AffectedByWind = 1
+LightRadius = 10
+LightIntensity = 52
+LightFlags = 0
+ElementsCount = 8
+AlwaysGenerate = 0

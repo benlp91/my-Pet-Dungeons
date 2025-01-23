@@ -856,7 +856,7 @@ SubtileZ = [1, 0]
 
 [thing79]
 ThingType = "Trap"
-Subtype = 1012
+Subtype = 1013
 Ownership = 0
 Index = 5
 Orientation = 512

@@ -1644,7 +1644,7 @@ Subtype = 114
 EffectRange = 0
 
 [slab28.SW]
-Columns = [1323, 1323, 1323, 1323, 81, 1323, 1323, 1323, 1323]
+Columns = [1323, 1323, 81, 1323, 1323, 1323, 1323, 1323, 1323]
 
 [[slab28.SW_objects]]
 IsLight = 0
@@ -1655,9 +1655,20 @@ Subtype = 2
 EffectRange = 0
 
 [slab28.NW]
-Columns = [1323, 1323, 1323, 1323, 81, 1323, 1323, 1323, 1323]
+Columns = [1323, 1323, 1323, 1323, 1323, 1323, 1323, 1323, 81]
 
 [[slab28.NW_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [0, 0, 768]
+ThingType = 1
+Subtype = 2
+EffectRange = 0
+
+[slab28.NE]
+Columns = [1323, 1323, 1323, 1323, 1323, 1323, 81, 1323, 1323]
+
+[[slab28.NE_objects]]
 IsLight = 0
 Subtile = 6
 RelativePosition = [256, 0, 768]
@@ -1665,24 +1676,13 @@ ThingType = 1
 Subtype = 2
 EffectRange = 0
 
-[slab28.NE]
-Columns = [1323, 1323, 1323, 1323, 81, 1323, 1323, 1323, 1323]
-
-[[slab28.NE_objects]]
-IsLight = 0
-Subtile = 0
-RelativePosition = [256, 256, 768]
-ThingType = 1
-Subtype = 2
-EffectRange = 0
-
 [slab28.SE]
-Columns = [1323, 1323, 1323, 1323, 81, 1323, 1323, 1323, 1323]
+Columns = [81, 1323, 1323, 1323, 1323, 1323, 1323, 1323, 1323]
 
 [[slab28.SE_objects]]
 IsLight = 0
-Subtile = 2
-RelativePosition = [0, 256, 768]
+Subtile = 0
+RelativePosition = [256, 256, 768]
 ThingType = 1
 Subtype = 2
 EffectRange = 0
@@ -4058,6 +4058,120 @@ Objects = []
 
 [slab51.CENTER]
 Columns = [0, 0, 0, 0, 0, 0, 0, 0, 0]
+Objects = []
+
+
+[slab52]
+[slab52.S]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
+Objects = []
+
+[slab52.W]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
+Objects = []
+
+[slab52.N]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
+Objects = []
+
+[slab52.E]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
+Objects = []
+
+[slab52.SW]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
+Objects = []
+
+[slab52.NW]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
+Objects = []
+
+[slab52.NE]
+Columns = [1149, 1152, 1148, 1135, 1155, 1153, 1151, 1150, 1154]
+Objects = []
+
+[slab52.SE]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
+Objects = []
+
+[slab52.ALL]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
+Objects = []
+
+[slab52.S_LAVA]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
+Objects = []
+
+[slab52.W_LAVA]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
+Objects = []
+
+[slab52.N_LAVA]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
+Objects = []
+
+[slab52.E_LAVA]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
+Objects = []
+
+[slab52.SW_LAVA]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
+Objects = []
+
+[slab52.NW_LAVA]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
+Objects = []
+
+[slab52.NE_LAVA]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
+Objects = []
+
+[slab52.SE_LAVA]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
+Objects = []
+
+[slab52.ALL_LAVA]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
+Objects = []
+
+[slab52.S_WATER]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1264, 1264, 1264]
+Objects = []
+
+[slab52.W_WATER]
+Columns = [1264, 1152, 1148, 1264, 1155, 1153, 1264, 1150, 1154]
+Objects = []
+
+[slab52.N_WATER]
+Columns = [1264, 1264, 1264, 1150, 1155, 1152, 1154, 1153, 1148]
+Objects = []
+
+[slab52.E_WATER]
+Columns = [1154, 1150, 1264, 1153, 1155, 1264, 1148, 1152, 1264]
+Objects = []
+
+[slab52.SW_WATER]
+Columns = [1264, 1153, 1148, 1264, 1155, 1150, 1264, 1264, 1264]
+Objects = []
+
+[slab52.NW_WATER]
+Columns = [1264, 1264, 1264, 1264, 1155, 1153, 1264, 1150, 1148]
+Objects = []
+
+[slab52.NE_WATER]
+Columns = [1264, 1264, 1264, 1150, 1155, 1264, 1148, 1153, 1264]
+Objects = []
+
+[slab52.SE_WATER]
+Columns = [1148, 1150, 1264, 1153, 1155, 1264, 1264, 1264, 1264]
+Objects = []
+
+[slab52.ALL_WATER]
+Columns = [1264, 1264, 1264, 1264, 1155, 1264, 1264, 1264, 1264]
+Objects = []
+
+[slab52.CENTER]
+Columns = [1148, 1153, 1154, 1152, 1155, 1150, 1149, 1135, 1151]
 Objects = []
 
 

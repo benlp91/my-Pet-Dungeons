@@ -345,161 +345,53 @@ SubtileZ = [1, 0]
 
 [thing34]
 ThingType = "Creature"
-Subtype = 6
-Ownership = 4
+Subtype = 23
+Ownership = 0
 Index = 0
 CreatureLevel = 1
 CreatureGold = 0
 CreatureInitialHealth = 100
-SubtileX = [25, 128]
-SubtileY = [10, 128]
+SubtileX = [85, 128]
+SubtileY = [85, 128]
 SubtileZ = [1, 0]
 
 [thing35]
 ThingType = "Creature"
-Subtype = 12
-Ownership = 4
+Subtype = 23
+Ownership = 0
 Index = 0
 CreatureLevel = 1
 CreatureGold = 0
 CreatureInitialHealth = 100
-SubtileX = [28, 128]
-SubtileY = [10, 128]
+SubtileX = [97, 128]
+SubtileY = [85, 128]
 SubtileZ = [1, 0]
 
 [thing36]
 ThingType = "Creature"
-Subtype = 3
-Ownership = 4
+Subtype = 23
+Ownership = 0
 Index = 0
 CreatureLevel = 1
 CreatureGold = 0
 CreatureInitialHealth = 100
-SubtileX = [31, 128]
-SubtileY = [10, 128]
+SubtileX = [85, 128]
+SubtileY = [97, 128]
 SubtileZ = [1, 0]
 
 [thing37]
 ThingType = "Creature"
-Subtype = 4
-Ownership = 4
+Subtype = 23
+Ownership = 0
 Index = 0
 CreatureLevel = 1
 CreatureGold = 0
 CreatureInitialHealth = 100
-SubtileX = [25, 128]
-SubtileY = [13, 128]
+SubtileX = [97, 128]
+SubtileY = [97, 128]
 SubtileZ = [1, 0]
 
 [thing38]
-ThingType = "Creature"
-Subtype = 11
-Ownership = 4
-Index = 0
-CreatureLevel = 1
-CreatureGold = 0
-CreatureInitialHealth = 100
-SubtileX = [28, 128]
-SubtileY = [12, 128]
-SubtileZ = [1, 0]
-
-[thing39]
-ThingType = "Creature"
-Subtype = 2
-Ownership = 4
-Index = 0
-CreatureLevel = 1
-CreatureGold = 0
-CreatureInitialHealth = 100
-SubtileX = [31, 128]
-SubtileY = [13, 128]
-SubtileZ = [1, 0]
-
-[thing40]
-ThingType = "Creature"
-Subtype = 8
-Ownership = 4
-Index = 0
-CreatureLevel = 1
-CreatureGold = 0
-CreatureInitialHealth = 100
-SubtileX = [25, 128]
-SubtileY = [16, 128]
-SubtileZ = [1, 0]
-
-[thing41]
-ThingType = "Creature"
-Subtype = 10
-Ownership = 4
-Index = 0
-CreatureLevel = 1
-CreatureGold = 0
-CreatureInitialHealth = 100
-SubtileX = [28, 128]
-SubtileY = [16, 128]
-SubtileZ = [1, 0]
-
-[thing42]
-ThingType = "Creature"
-Subtype = 1
-Ownership = 4
-Index = 0
-CreatureLevel = 1
-CreatureGold = 0
-CreatureInitialHealth = 100
-SubtileX = [31, 128]
-SubtileY = [16, 128]
-SubtileZ = [1, 0]
-
-[thing43]
-ThingType = "Creature"
-Subtype = 23
-Ownership = 0
-Index = 0
-CreatureLevel = 1
-CreatureGold = 0
-CreatureInitialHealth = 100
-SubtileX = [85, 128]
-SubtileY = [85, 128]
-SubtileZ = [1, 0]
-
-[thing44]
-ThingType = "Creature"
-Subtype = 23
-Ownership = 0
-Index = 0
-CreatureLevel = 1
-CreatureGold = 0
-CreatureInitialHealth = 100
-SubtileX = [97, 128]
-SubtileY = [85, 128]
-SubtileZ = [1, 0]
-
-[thing45]
-ThingType = "Creature"
-Subtype = 23
-Ownership = 0
-Index = 0
-CreatureLevel = 1
-CreatureGold = 0
-CreatureInitialHealth = 100
-SubtileX = [85, 128]
-SubtileY = [97, 128]
-SubtileZ = [1, 0]
-
-[thing46]
-ThingType = "Creature"
-Subtype = 23
-Ownership = 0
-Index = 0
-CreatureLevel = 1
-CreatureGold = 0
-CreatureInitialHealth = 100
-SubtileX = [97, 128]
-SubtileY = [97, 128]
-SubtileZ = [1, 0]
-
-[thing47]
 ThingType = "Creature"
 Subtype = 16
 Ownership = 5
@@ -511,40 +403,148 @@ SubtileX = [166, 128]
 SubtileY = [160, 128]
 SubtileZ = [1, 0]
 
-[thing48]
+[thing39]
 ThingType = "Creature"
-Subtype = 5
+Subtype = 46
 Ownership = 4
-Index = 1
+Index = 6
 CreatureLevel = 1
 CreatureGold = 0
 CreatureInitialHealth = 100
-SubtileX = [22, 128]
-SubtileY = [16, 128]
+SubtileX = [33, 128]
+SubtileY = [8, 128]
+SubtileZ = [1, 0]
+
+[thing40]
+ThingType = "Creature"
+Subtype = 47
+Ownership = 4
+Index = 7
+CreatureLevel = 1
+CreatureGold = 0
+CreatureInitialHealth = 100
+SubtileX = [33, 128]
+SubtileY = [10, 128]
+SubtileZ = [1, 0]
+
+[thing41]
+ThingType = "Creature"
+Subtype = 48
+Ownership = 4
+Index = 8
+CreatureLevel = 1
+CreatureGold = 0
+CreatureInitialHealth = 100
+SubtileX = [33, 128]
+SubtileY = [12, 128]
+SubtileZ = [1, 0]
+
+[thing42]
+ThingType = "Creature"
+Subtype = 49
+Ownership = 4
+Index = 9
+CreatureLevel = 1
+CreatureGold = 0
+CreatureInitialHealth = 100
+SubtileX = [30, 128]
+SubtileY = [8, 128]
+SubtileZ = [1, 0]
+
+[thing43]
+ThingType = "Creature"
+Subtype = 50
+Ownership = 4
+Index = 10
+CreatureLevel = 1
+CreatureGold = 0
+CreatureInitialHealth = 100
+SubtileX = [30, 128]
+SubtileY = [10, 128]
+SubtileZ = [1, 0]
+
+[thing44]
+ThingType = "Creature"
+Subtype = 51
+Ownership = 4
+Index = 11
+CreatureLevel = 1
+CreatureGold = 0
+CreatureInitialHealth = 100
+SubtileX = [30, 128]
+SubtileY = [12, 128]
+SubtileZ = [1, 0]
+
+[thing45]
+ThingType = "Creature"
+Subtype = 52
+Ownership = 4
+Index = 12
+CreatureLevel = 1
+CreatureGold = 0
+CreatureInitialHealth = 100
+SubtileX = [27, 128]
+SubtileY = [8, 128]
+SubtileZ = [1, 0]
+
+[thing46]
+ThingType = "Creature"
+Subtype = 53
+Ownership = 4
+Index = 13
+CreatureLevel = 1
+CreatureGold = 0
+CreatureInitialHealth = 100
+SubtileX = [27, 128]
+SubtileY = [10, 128]
+SubtileZ = [1, 0]
+
+[thing47]
+ThingType = "Creature"
+Subtype = 54
+Ownership = 4
+Index = 14
+CreatureLevel = 1
+CreatureGold = 0
+CreatureInitialHealth = 100
+SubtileX = [27, 128]
+SubtileY = [12, 128]
+SubtileZ = [1, 0]
+
+[thing48]
+ThingType = "Creature"
+Subtype = 55
+Ownership = 4
+Index = 15
+CreatureLevel = 1
+CreatureGold = 0
+CreatureInitialHealth = 100
+SubtileX = [24, 128]
+SubtileY = [8, 128]
 SubtileZ = [1, 0]
 
 [thing49]
 ThingType = "Creature"
-Subtype = 9
+Subtype = 56
 Ownership = 4
-Index = 2
+Index = 16
 CreatureLevel = 1
 CreatureGold = 0
 CreatureInitialHealth = 100
-SubtileX = [22, 128]
+SubtileX = [24, 128]
 SubtileY = [10, 128]
 SubtileZ = [1, 0]
 
 [thing50]
 ThingType = "Creature"
-Subtype = 13
+Subtype = 57
 Ownership = 4
-Index = 3
+Index = 17
 CreatureLevel = 1
 CreatureGold = 0
 CreatureInitialHealth = 100
-SubtileX = [22, 128]
-SubtileY = [13, 128]
+SubtileX = [24, 128]
+SubtileY = [12, 128]
 SubtileZ = [1, 0]
 
 [thing51]

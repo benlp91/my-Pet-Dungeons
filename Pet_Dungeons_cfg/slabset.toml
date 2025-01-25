@@ -9653,3 +9653,1050 @@ EffectRange = 0
 Columns = [168, 168, 168, 168, 168, 168, 168, 168, 168]
 Objects = []
 
+
+[slab101]
+[slab101.S]
+Columns = [1372, 1372, 1372, 1372, 1372, 1372, 1196, 1196, 1196]
+
+[[slab101.S_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [192, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.S_objects]]
+IsLight = 0
+Subtile = 7
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.S_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.W]
+Columns = [1199, 1372, 253, 1199, 1372, 1372, 1199, 1372, 1372]
+
+[[slab101.W_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.W_objects]]
+IsLight = 0
+Subtile = 3
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.W_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.N]
+Columns = [1202, 1202, 1202, 1372, 1372, 1372, 1372, 1372, 253]
+
+[[slab101.N_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.N_objects]]
+IsLight = 0
+Subtile = 1
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.N_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.E]
+Columns = [1372, 253, 1206, 1372, 1372, 1206, 1372, 1372, 1206]
+
+[[slab101.E_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.E_objects]]
+IsLight = 0
+Subtile = 5
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.E_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.SW]
+Columns = [1199, 1372, 1372, 1199, 1372, 1372, 254, 1196, 1196]
+
+[[slab101.SW_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SW_objects]]
+IsLight = 0
+Subtile = 3
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SW_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SW_objects]]
+IsLight = 0
+Subtile = 7
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SW_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.NW]
+Columns = [255, 1202, 1202, 1199, 1372, 1372, 1199, 1372, 1372]
+
+[[slab101.NW_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NW_objects]]
+IsLight = 0
+Subtile = 1
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NW_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NW_objects]]
+IsLight = 0
+Subtile = 3
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NW_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.NE]
+Columns = [1202, 1202, 256, 1372, 1372, 1206, 1372, 1372, 1206]
+
+[[slab101.NE_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NE_objects]]
+IsLight = 0
+Subtile = 1
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NE_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NE_objects]]
+IsLight = 0
+Subtile = 5
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NE_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.SE]
+Columns = [1372, 1372, 1206, 1372, 1372, 1206, 1196, 1196, 257]
+
+[[slab101.SE_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SE_objects]]
+IsLight = 0
+Subtile = 5
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SE_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SE_objects]]
+IsLight = 0
+Subtile = 7
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SE_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.ALL]
+Columns = [255, 1202, 256, 1199, 1372, 1206, 254, 1196, 257]
+
+[[slab101.ALL_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_objects]]
+IsLight = 0
+Subtile = 1
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_objects]]
+IsLight = 0
+Subtile = 3
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_objects]]
+IsLight = 0
+Subtile = 5
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_objects]]
+IsLight = 0
+Subtile = 7
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.S_LAVA]
+Columns = [253, 253, 253, 253, 253, 253, 1197, 1197, 1197]
+
+[[slab101.S_LAVA_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.S_LAVA_objects]]
+IsLight = 0
+Subtile = 7
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.S_LAVA_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.W_LAVA]
+Columns = [1200, 253, 253, 1200, 253, 253, 1200, 253, 253]
+
+[[slab101.W_LAVA_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.W_LAVA_objects]]
+IsLight = 0
+Subtile = 3
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.W_LAVA_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.N_LAVA]
+Columns = [1203, 1203, 1203, 253, 253, 253, 253, 253, 253]
+
+[[slab101.N_LAVA_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.N_LAVA_objects]]
+IsLight = 0
+Subtile = 1
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.N_LAVA_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.E_LAVA]
+Columns = [253, 253, 1207, 253, 253, 1207, 253, 253, 1207]
+
+[[slab101.E_LAVA_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.E_LAVA_objects]]
+IsLight = 0
+Subtile = 5
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.E_LAVA_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.SW_LAVA]
+Columns = [1200, 253, 253, 1200, 253, 253, 262, 1197, 1197]
+
+[[slab101.SW_LAVA_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SW_LAVA_objects]]
+IsLight = 0
+Subtile = 3
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SW_LAVA_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SW_LAVA_objects]]
+IsLight = 0
+Subtile = 7
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SW_LAVA_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.NW_LAVA]
+Columns = [263, 1203, 1203, 1200, 253, 253, 1200, 253, 253]
+
+[[slab101.NW_LAVA_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NW_LAVA_objects]]
+IsLight = 0
+Subtile = 1
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NW_LAVA_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NW_LAVA_objects]]
+IsLight = 0
+Subtile = 3
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NW_LAVA_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.NE_LAVA]
+Columns = [1203, 1203, 264, 253, 253, 1207, 253, 253, 1207]
+
+[[slab101.NE_LAVA_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NE_LAVA_objects]]
+IsLight = 0
+Subtile = 1
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NE_LAVA_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NE_LAVA_objects]]
+IsLight = 0
+Subtile = 5
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NE_LAVA_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.SE_LAVA]
+Columns = [253, 253, 1207, 253, 253, 1207, 1197, 1197, 265]
+
+[[slab101.SE_LAVA_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SE_LAVA_objects]]
+IsLight = 0
+Subtile = 5
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SE_LAVA_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SE_LAVA_objects]]
+IsLight = 0
+Subtile = 7
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SE_LAVA_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.ALL_LAVA]
+Columns = [263, 1203, 264, 1200, 253, 1207, 262, 1197, 265]
+
+[[slab101.ALL_LAVA_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_LAVA_objects]]
+IsLight = 0
+Subtile = 1
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_LAVA_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_LAVA_objects]]
+IsLight = 0
+Subtile = 3
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_LAVA_objects]]
+IsLight = 0
+Subtile = 5
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_LAVA_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_LAVA_objects]]
+IsLight = 0
+Subtile = 7
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_LAVA_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.S_WATER]
+Columns = [253, 253, 253, 253, 253, 253, 1198, 1198, 1198]
+
+[[slab101.S_WATER_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.S_WATER_objects]]
+IsLight = 0
+Subtile = 7
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.S_WATER_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.W_WATER]
+Columns = [1201, 253, 253, 1201, 253, 253, 1201, 253, 253]
+
+[[slab101.W_WATER_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.W_WATER_objects]]
+IsLight = 0
+Subtile = 3
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.W_WATER_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.N_WATER]
+Columns = [1204, 1204, 1204, 253, 253, 253, 253, 253, 253]
+
+[[slab101.N_WATER_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.N_WATER_objects]]
+IsLight = 0
+Subtile = 1
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.N_WATER_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.E_WATER]
+Columns = [253, 253, 1208, 253, 253, 1208, 253, 253, 1208]
+
+[[slab101.E_WATER_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.E_WATER_objects]]
+IsLight = 0
+Subtile = 5
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.E_WATER_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.SW_WATER]
+Columns = [1201, 253, 253, 1201, 253, 253, 270, 1198, 1198]
+
+[[slab101.SW_WATER_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SW_WATER_objects]]
+IsLight = 0
+Subtile = 3
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SW_WATER_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SW_WATER_objects]]
+IsLight = 0
+Subtile = 7
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SW_WATER_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.NW_WATER]
+Columns = [271, 1204, 1204, 1201, 253, 253, 1201, 253, 253]
+
+[[slab101.NW_WATER_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NW_WATER_objects]]
+IsLight = 0
+Subtile = 1
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NW_WATER_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NW_WATER_objects]]
+IsLight = 0
+Subtile = 3
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NW_WATER_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.NE_WATER]
+Columns = [1204, 1204, 272, 253, 253, 1208, 253, 253, 1208]
+
+[[slab101.NE_WATER_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NE_WATER_objects]]
+IsLight = 0
+Subtile = 1
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NE_WATER_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NE_WATER_objects]]
+IsLight = 0
+Subtile = 5
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.NE_WATER_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.SE_WATER]
+Columns = [253, 253, 1208, 253, 253, 1208, 1198, 1198, 273]
+
+[[slab101.SE_WATER_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SE_WATER_objects]]
+IsLight = 0
+Subtile = 5
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SE_WATER_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SE_WATER_objects]]
+IsLight = 0
+Subtile = 7
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.SE_WATER_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.ALL_WATER]
+Columns = [271, 1204, 272, 1201, 253, 1208, 270, 1198, 273]
+
+[[slab101.ALL_WATER_objects]]
+IsLight = 0
+Subtile = 0
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_WATER_objects]]
+IsLight = 0
+Subtile = 1
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_WATER_objects]]
+IsLight = 0
+Subtile = 2
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_WATER_objects]]
+IsLight = 0
+Subtile = 3
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_WATER_objects]]
+IsLight = 0
+Subtile = 5
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_WATER_objects]]
+IsLight = 0
+Subtile = 6
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_WATER_objects]]
+IsLight = 0
+Subtile = 7
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[[slab101.ALL_WATER_objects]]
+IsLight = 0
+Subtile = 8
+RelativePosition = [128, 128, 256]
+ThingType = 1
+Subtype = 27
+EffectRange = 0
+
+[slab101.CENTER]
+Columns = [253, 253, 253, 253, 253, 253, 253, 253, 253]
+Objects = []
+

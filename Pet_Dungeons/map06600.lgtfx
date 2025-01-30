@@ -1,5 +1,5 @@
 [common]
-LightsCount = 16
+LightsCount = 19
 
 [light0]
 LightIntensity = 26
@@ -127,4 +127,28 @@ LightRange = [16, 0]
 ParentTile = 7152
 SubtileX = [159, 198]
 SubtileY = [214, 70]
+SubtileZ = [2, 0]
+
+[light16]
+LightIntensity = 26
+LightRange = [16, 0]
+ParentTile = 1388
+SubtileX = [263, 64]
+SubtileY = [40, 128]
+SubtileZ = [2, 0]
+
+[light17]
+LightIntensity = 26
+LightRange = [16, 0]
+ParentTile = 1186
+SubtileX = [259, 128]
+SubtileY = [36, 128]
+SubtileZ = [2, 0]
+
+[light18]
+LightIntensity = 26
+LightRange = [16, 0]
+ParentTile = 1384
+SubtileX = [255, 198]
+SubtileY = [40, 70]
 SubtileZ = [2, 0]

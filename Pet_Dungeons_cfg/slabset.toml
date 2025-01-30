@@ -10814,3 +10814,117 @@ EffectRange = 0
 Columns = [253, 253, 253, 253, 253, 253, 253, 253, 253]
 Objects = []
 
+
+[slab102]
+[slab102.S]
+Columns = [2, 2, 2, 2, 2, 2, 2, 2, 2]
+Objects = []
+
+[slab102.W]
+Columns = [2, 2, 2, 2, 2, 2, 2, 2, 2]
+Objects = []
+
+[slab102.N]
+Columns = [2, 2, 2, 2, 2, 2, 2, 2, 2]
+Objects = []
+
+[slab102.E]
+Columns = [2, 2, 2, 2, 2, 2, 2, 2, 2]
+Objects = []
+
+[slab102.SW]
+Columns = [2, 2, 2, 2, 2, 2, 2, 2, 2]
+Objects = []
+
+[slab102.NW]
+Columns = [2, 2, 2, 2, 2, 2, 2, 2, 2]
+Objects = []
+
+[slab102.NE]
+Columns = [2, 2, 2, 2, 2, 2, 2, 2, 2]
+Objects = []
+
+[slab102.SE]
+Columns = [2, 2, 2, 2, 2, 2, 2, 2, 2]
+Objects = []
+
+[slab102.ALL]
+Columns = [2, 2, 2, 2, 2, 2, 2, 2, 2]
+Objects = []
+
+[slab102.S_LAVA]
+Columns = [2, 2, 2, 2, 2, 2, 230, 230, 230]
+Objects = []
+
+[slab102.W_LAVA]
+Columns = [230, 2, 2, 230, 2, 2, 230, 2, 2]
+Objects = []
+
+[slab102.N_LAVA]
+Columns = [230, 230, 230, 2, 2, 2, 2, 2, 2]
+Objects = []
+
+[slab102.E_LAVA]
+Columns = [2, 2, 230, 2, 2, 230, 2, 2, 230]
+Objects = []
+
+[slab102.SW_LAVA]
+Columns = [230, 2, 2, 230, 230, 2, 818, 230, 230]
+Objects = []
+
+[slab102.NW_LAVA]
+Columns = [818, 230, 230, 230, 230, 2, 230, 2, 2]
+Objects = []
+
+[slab102.NE_LAVA]
+Columns = [230, 230, 818, 2, 230, 230, 2, 2, 230]
+Objects = []
+
+[slab102.SE_LAVA]
+Columns = [2, 2, 230, 2, 230, 230, 230, 230, 818]
+Objects = []
+
+[slab102.ALL_LAVA]
+Columns = [230, 230, 230, 230, 2, 230, 230, 230, 230]
+Objects = []
+
+[slab102.S_WATER]
+Columns = [2, 2, 2, 2, 2, 2, 27, 27, 27]
+Objects = []
+
+[slab102.W_WATER]
+Columns = [27, 2, 2, 27, 2, 2, 27, 2, 2]
+Objects = []
+
+[slab102.N_WATER]
+Columns = [27, 27, 27, 2, 2, 2, 2, 2, 2]
+Objects = []
+
+[slab102.E_WATER]
+Columns = [2, 2, 27, 2, 2, 27, 2, 2, 27]
+Objects = []
+
+[slab102.SW_WATER]
+Columns = [27, 2, 2, 27, 2, 2, 27, 27, 27]
+Objects = []
+
+[slab102.NW_WATER]
+Columns = [27, 27, 27, 27, 2, 2, 27, 2, 2]
+Objects = []
+
+[slab102.NE_WATER]
+Columns = [27, 27, 27, 2, 2, 27, 2, 2, 27]
+Objects = []
+
+[slab102.SE_WATER]
+Columns = [2, 2, 27, 2, 2, 27, 27, 27, 27]
+Objects = []
+
+[slab102.ALL_WATER]
+Columns = [27, 27, 27, 27, 2, 27, 27, 27, 27]
+Objects = []
+
+[slab102.CENTER]
+Columns = [2, 2, 2, 2, 2, 2, 2, 2, 2]
+Objects = []
+

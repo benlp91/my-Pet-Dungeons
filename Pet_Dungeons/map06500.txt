@@ -498,8 +498,8 @@ IF(PLAYER0,TIMER0 >= 18000)
 ENDIF
 
 IF(PLAYER0,TIMER0 >= 20)
-    PLAY_MESSAGE(PLAYER0,SPEECH,"lvlspe01.ogg")
-    QUICK_OBJECTIVE(12,"Welcome, Keeper, to your first Pet Dungeon. You have all the time in Hades to construct your ideal home for dark-dwelling denizens, and plentiful resources to boot. Prove that you can do this, and further Pet Dungeons await you. Good luck, vicious one.")
+    PLAY_MESSAGE(PLAYER0,SPEECH,"lvlspe06.ogg")
+    QUICK_OBJECTIVE(12,"This is the final Pet Dungeon, and you have the opportunity to create your master Dungeon. The land is huge, Portals are plentiful, and Gem Blocks are abundant. Create the biggest, baddest Dungeon you can, and revel in your wickedness!")
 ENDIF
 
 IF(PLAYER0,TIMER0 >= 400)

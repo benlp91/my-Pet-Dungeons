@@ -17,7 +17,7 @@ SubtileY = [174, 128]
 PointNumber = 3
 PointRange = [0, 0]
 SubtileX = [25, 128]
-SubtileY = [168, 128]
+SubtileY = [166, 128]
 
 [actionpoint3]
 PointNumber = 4

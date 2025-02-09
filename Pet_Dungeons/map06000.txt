@@ -2128,6 +2128,10 @@ IF_AVAILABLE(PLAYER0,POWER_DESTROY_WALLS > 0)
 	ADD_TO_FLAG(PLAYER5,FLAG6,500)
 ENDIF
 
+IF(PLAYER0,TOTAL_SLAPS > 50)
+	ADD_TO_FLAG(PLAYER5,FLAG6,1000)
+ENDIF
+
 IF(PLAYER0, TOTAL_SCORE >= 1000)
 	PLAY_MESSAGE(PLAYER0,SPEECH,"lvlspe07.ogg")
 	QUICK_OBJECTIVE(50,"Congratulations! You have bested this first Pet Dungeon, and proved to be evil enough to travel to the next land.")

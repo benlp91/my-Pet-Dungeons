@@ -2271,6 +2271,7 @@ Rem the one-time bonus points.
 
 IF(PLAYER0, BLACK_KNIGHT == 2)
 	ADD_TO_FLAG(PLAYER5,FLAG6,400)
+	QUICK_MESSAGE(100,"Bonus Points Goal reached.",PLAYER0)
 ENDIF
 
 REM ***************************************

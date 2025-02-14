@@ -2271,10 +2271,12 @@ Rem the one-time bonus points.
 
 IF_AVAILABLE(PLAYER0,POWER_DESTROY_WALLS > 0)
 	ADD_TO_FLAG(PLAYER5,FLAG6,200)
+	QUICK_MESSAGE(100,"Bonus Points Goal reached.",PLAYER0)
 ENDIF
 
 IF(PLAYER0,TOTAL_SLAPS > 50)
 	ADD_TO_FLAG(PLAYER5,FLAG6,200)
+	QUICK_MESSAGE(100,"Bonus Points Goal reached.",PLAYER0)
 ENDIF
 
 REM ***************************************

@@ -2283,6 +2283,7 @@ IF(PLAYER0,LAIR  >= 1)
 											IF(PLAYER0,RESEARCH  >= 1)
 												IF(PLAYER0,TOTAL_CREATURES >= 15)
 													ADD_TO_FLAG(PLAYER5,FLAG6,400)
+													QUICK_MESSAGE(100,"Bonus Points Goal reached.",PLAYER0)
 												ENDIF	
 											ENDIF		
 										ENDIF	

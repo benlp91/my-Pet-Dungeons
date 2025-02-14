@@ -2272,11 +2272,14 @@ Rem the one-time bonus points.
 IF(PLAYER0, TEMPLE >= 25)
 	IF(PLAYER0, ANGEL >= 2)
 		ADD_TO_FLAG(PLAYER5,FLAG6,200)
+		QUICK_MESSAGE(100,"Bonus Points Goal reached.",PLAYER0)
 	ENDIF
 ENDIF
 
 REM ***************************************
 REM ***************************************
+
+SET_CREATURE_CONFIGURATION(TUNNELLER,HurtByLava,0)
 
 IF(PLAYER5,FLAG5 >= 2500)
     	PLAY_MESSAGE(PLAYER0,SPEECH,"lvlspe12.ogg")

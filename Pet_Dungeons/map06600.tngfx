@@ -4057,30 +4057,6 @@ SubtileZ = [1, 0]
 
 [thing402]
 ThingType = "Creature"
-Subtype = 20
-Ownership = 5
-Index = 0
-CreatureLevel = 1
-CreatureGold = 0
-CreatureInitialHealth = 100
-SubtileX = [133, 128]
-SubtileY = [250, 128]
-SubtileZ = [1, 0]
-
-[thing403]
-ThingType = "Creature"
-Subtype = 20
-Ownership = 5
-Index = 0
-CreatureLevel = 1
-CreatureGold = 0
-CreatureInitialHealth = 100
-SubtileX = [139, 128]
-SubtileY = [250, 128]
-SubtileZ = [1, 0]
-
-[thing404]
-ThingType = "Creature"
 Subtype = 34
 Ownership = 5
 Index = 1
@@ -4091,7 +4067,7 @@ SubtileX = [107, 128]
 SubtileY = [215, 128]
 SubtileZ = [1, 0]
 
-[thing405]
+[thing403]
 ThingType = "Creature"
 Subtype = 38
 Ownership = 5
@@ -4103,7 +4079,7 @@ SubtileX = [163, 128]
 SubtileY = [214, 128]
 SubtileZ = [1, 0]
 
-[thing406]
+[thing404]
 ThingType = "Creature"
 Subtype = 37
 Ownership = 5
@@ -4115,7 +4091,7 @@ SubtileX = [181, 128]
 SubtileY = [214, 128]
 SubtileZ = [1, 0]
 
-[thing407]
+[thing405]
 ThingType = "Creature"
 Subtype = 1
 Ownership = 1
@@ -4127,7 +4103,7 @@ SubtileX = [23, 128]
 SubtileY = [171, 128]
 SubtileZ = [1, 0]
 
-[thing408]
+[thing406]
 ThingType = "Creature"
 Subtype = 2
 Ownership = 1
@@ -4139,7 +4115,7 @@ SubtileX = [25, 128]
 SubtileY = [171, 128]
 SubtileZ = [1, 0]
 
-[thing409]
+[thing407]
 ThingType = "Creature"
 Subtype = 3
 Ownership = 1
@@ -4151,7 +4127,7 @@ SubtileX = [27, 128]
 SubtileY = [171, 128]
 SubtileZ = [1, 0]
 
-[thing410]
+[thing408]
 ThingType = "Creature"
 Subtype = 4
 Ownership = 1
@@ -4163,7 +4139,7 @@ SubtileX = [23, 128]
 SubtileY = [173, 128]
 SubtileZ = [1, 0]
 
-[thing411]
+[thing409]
 ThingType = "Creature"
 Subtype = 5
 Ownership = 1
@@ -4175,7 +4151,7 @@ SubtileX = [25, 128]
 SubtileY = [173, 128]
 SubtileZ = [1, 0]
 
-[thing412]
+[thing410]
 ThingType = "Creature"
 Subtype = 6
 Ownership = 1
@@ -4187,7 +4163,7 @@ SubtileX = [27, 128]
 SubtileY = [173, 128]
 SubtileZ = [1, 0]
 
-[thing413]
+[thing411]
 ThingType = "Creature"
 Subtype = 8
 Ownership = 1
@@ -4199,7 +4175,7 @@ SubtileX = [23, 128]
 SubtileY = [175, 128]
 SubtileZ = [1, 0]
 
-[thing414]
+[thing412]
 ThingType = "Creature"
 Subtype = 9
 Ownership = 1
@@ -4211,7 +4187,7 @@ SubtileX = [25, 128]
 SubtileY = [175, 128]
 SubtileZ = [1, 0]
 
-[thing415]
+[thing413]
 ThingType = "Creature"
 Subtype = 10
 Ownership = 1
@@ -4223,7 +4199,7 @@ SubtileX = [27, 128]
 SubtileY = [175, 128]
 SubtileZ = [1, 0]
 
-[thing416]
+[thing414]
 ThingType = "Creature"
 Subtype = 11
 Ownership = 1
@@ -4235,7 +4211,7 @@ SubtileX = [23, 128]
 SubtileY = [177, 128]
 SubtileZ = [1, 0]
 
-[thing417]
+[thing415]
 ThingType = "Creature"
 Subtype = 12
 Ownership = 1
@@ -4247,7 +4223,7 @@ SubtileX = [25, 128]
 SubtileY = [177, 128]
 SubtileZ = [1, 0]
 
-[thing418]
+[thing416]
 ThingType = "Creature"
 Subtype = 13
 Ownership = 1
@@ -4259,7 +4235,7 @@ SubtileX = [27, 128]
 SubtileY = [177, 128]
 SubtileZ = [1, 0]
 
-[thing419]
+[thing417]
 ThingType = "Creature"
 Subtype = 39
 Ownership = 5
@@ -4271,7 +4247,7 @@ SubtileX = [260, 128]
 SubtileY = [38, 128]
 SubtileZ = [1, 0]
 
-[thing420]
+[thing418]
 ThingType = "Creature"
 Subtype = 45
 Ownership = 5
@@ -4281,6 +4257,30 @@ CreatureGold = 0
 CreatureInitialHealth = 100
 SubtileX = [91, 128]
 SubtileY = [214, 128]
+SubtileZ = [1, 0]
+
+[thing419]
+ThingType = "Creature"
+Subtype = 45
+Ownership = 5
+Index = 43
+CreatureLevel = 1
+CreatureGold = 0
+CreatureInitialHealth = 100
+SubtileX = [134, 128]
+SubtileY = [253, 128]
+SubtileZ = [1, 0]
+
+[thing420]
+ThingType = "Creature"
+Subtype = 45
+Ownership = 5
+Index = 44
+CreatureLevel = 1
+CreatureGold = 0
+CreatureInitialHealth = 100
+SubtileX = [138, 128]
+SubtileY = [254, 128]
 SubtileZ = [1, 0]
 
 [thing421]
@@ -4780,26 +4780,6 @@ SubtileZ = [0, 0]
 
 [thing466]
 ThingType = "Trap"
-Subtype = 1010
-Ownership = 4
-Index = 4
-Orientation = 0
-SubtileX = [103, 128]
-SubtileY = [223, 128]
-SubtileZ = [1, 0]
-
-[thing467]
-ThingType = "Trap"
-Subtype = 1010
-Ownership = 4
-Index = 5
-Orientation = 0
-SubtileX = [169, 128]
-SubtileY = [223, 128]
-SubtileZ = [1, 0]
-
-[thing468]
-ThingType = "Trap"
 Subtype = 1000
 Ownership = 5
 Index = 9
@@ -4808,7 +4788,7 @@ SubtileX = [265, 128]
 SubtileY = [49, 128]
 SubtileZ = [1, 0]
 
-[thing469]
+[thing467]
 ThingType = "Trap"
 Subtype = 1012
 Ownership = 0
@@ -4818,7 +4798,7 @@ SubtileX = [22, 128]
 SubtileY = [157, 128]
 SubtileZ = [1, 0]
 
-[thing470]
+[thing468]
 ThingType = "Trap"
 Subtype = 1013
 Ownership = 0
@@ -4828,7 +4808,7 @@ SubtileX = [28, 128]
 SubtileY = [157, 128]
 SubtileZ = [1, 0]
 
-[thing471]
+[thing469]
 ThingType = "Trap"
 Subtype = 1010
 Ownership = 4
@@ -4838,7 +4818,7 @@ SubtileX = [145, 128]
 SubtileY = [58, 128]
 SubtileZ = [1, 0]
 
-[thing472]
+[thing470]
 ThingType = "Trap"
 Subtype = 1010
 Ownership = 4
@@ -4848,7 +4828,7 @@ SubtileX = [145, 128]
 SubtileY = [67, 128]
 SubtileZ = [1, 0]
 
-[thing473]
+[thing471]
 ThingType = "Trap"
 Subtype = 3
 Ownership = 4
@@ -4858,7 +4838,7 @@ SubtileX = [241, 128]
 SubtileY = [61, 128]
 SubtileZ = [1, 0]
 
-[thing474]
+[thing472]
 ThingType = "Trap"
 Subtype = 3
 Ownership = 4
@@ -4866,4 +4846,24 @@ Index = 41
 Orientation = 512
 SubtileX = [223, 128]
 SubtileY = [73, 128]
+SubtileZ = [1, 0]
+
+[thing473]
+ThingType = "Trap"
+Subtype = 1010
+Ownership = 4
+Index = 5
+Orientation = 512
+SubtileX = [169, 128]
+SubtileY = [223, 128]
+SubtileZ = [1, 0]
+
+[thing474]
+ThingType = "Trap"
+Subtype = 1010
+Ownership = 4
+Index = 4
+Orientation = 1536
+SubtileX = [103, 128]
+SubtileY = [223, 128]
 SubtileZ = [1, 0]

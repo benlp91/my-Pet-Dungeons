@@ -557,62 +557,62 @@ ENDIF
 
 REM CREATURE SPEECHES
 
-IF(PLAYER0,BILE_DEMON == 1)
+IF(PLAYER0,BILE_DEMON >= 1)
 	PLAY_MESSAGE(PLAYER0,SPEECH,"lvlspe29.ogg")
 	QUICK_INFORMATION(15,"The Bile Demon is a slow yet sturdy fighter. He can hold off the advance of enemies with his tough body and odorous spells, but is also useful in the Workshop.")
 ENDIF
 
-IF(PLAYER0,MISTRESS == 1)
+IF(PLAYER0,MISTRESS >= 1)
 	PLAY_MESSAGE(PLAYER0,SPEECH,"lvlspe30.ogg")
 	QUICK_INFORMATION(16,"The Mistress is a fearless fighter, who will strike her foes down with her vicious claws. Battles can be turned quickly to your favour with these vicious ladies on your side.")
 ENDIF
 
-IF(PLAYER0,SORCEROR == 1)
+IF(PLAYER0,SORCEROR >= 1)
 	PLAY_MESSAGE(PLAYER0,SPEECH,"lvlspe31.ogg")
 	QUICK_INFORMATION(17,"A Warlock - use him in combat to support your other creatures. He is also your primary spell researcher, and will spend long hours in the Library discovering new incantations for you.")
 ENDIF
 
-IF(PLAYER0,DARK_ELF == 1)
+IF(PLAYER0,DARK_ELF >= 1)
 	PLAY_MESSAGE(PLAYER0,SPEECH,"lvlspe32.ogg")
 	QUICK_INFORMATION(18,"A Dark Elf has entered your Dungeon. She is a crackshot with her crossbow, and while weak on her own, a group of them will quickly whittle enemy numbers down.")
 ENDIF
 
-IF(PLAYER0,TROLL == 1)
+IF(PLAYER0,TROLL >= 1)
 	PLAY_MESSAGE(PLAYER0,SPEECH,"lvlspe33.ogg")
 	QUICK_INFORMATION(19,"The Troll is a sturdy worker, and will create Traps and Doors in the Workshop at your command. He also has the ability to spot hidden enemy Traps.")
 ENDIF
 
-IF(PLAYER0,VAMPIRE == 1)
+IF(PLAYER0,VAMPIRE >= 1)
 	PLAY_MESSAGE(PLAYER0,SPEECH,"lvlspe34.ogg")
 	QUICK_INFORMATION(20,"A Vampire has risen, and is ready to do your bidding. This powerful magic user will not cross water, but, with training, he will learn to resurrect himself when killed.")
 ENDIF
 
-IF(PLAYER0,SKELETON == 1)
+IF(PLAYER0,SKELETON >= 1)
 	PLAY_MESSAGE(PLAYER0,SPEECH,"lvlspe35.ogg")
 	QUICK_INFORMATION(21,"The Skeleton is a mindless fighter and needs neither sleep nor nourishment. It fears nothing and will happily charge in to battle, even when greatly outnumbered.")
 ENDIF
 
-IF(PLAYER0,GOBLIN == 1)
+IF(PLAYER0,GOBLIN >= 1)
 	PLAY_MESSAGE(PLAYER0,SPEECH,"lvlspe36.ogg")
 	QUICK_INFORMATION(22,"The Goblin is a stalwart Dungeon minion. It is quick to recover from stunning, and while weak individually, in hordes they can be a ferocious pack.")
 ENDIF
 
-IF(PLAYER0,SALAMANDER == 1)
+IF(PLAYER0,SALAMANDER >= 1)
 	PLAY_MESSAGE(PLAYER0,SPEECH,"lvlspe37.ogg")
 	QUICK_INFORMATION(23,"A Salamander has joined you. These reptiles are extremely hot-blooded, and will happily wade through lava.")
 ENDIF
 
-IF(PLAYER0,ANGEL == 1)
+IF(PLAYER0,ANGEL >= 1)
 	PLAY_MESSAGE(PLAYER0,SPEECH,"lvlspe38.ogg")
 	QUICK_INFORMATION(24,"Dark Angels are terrifying entities, who join you only for their own amusement and interest. They are powerful magic users and amazingly efficient researchers.")
 ENDIF
 
-IF(PLAYER0,FIREFLY == 1)
+IF(PLAYER0,FIREFLY >= 1)
 	PLAY_MESSAGE(PLAYER0,SPEECH,"lvlspe39.ogg")
 	QUICK_INFORMATION(25,"A Firefly has buzzed into your Dungeon. These creatures are timid and weak, but make for excellent scouts. Use them to discover new areas quickly.")
 ENDIF
 
-IF(PLAYER0,BLACK_KNIGHT == 1)
+IF(PLAYER0,BLACK_KNIGHT >= 1)
 	PLAY_MESSAGE(PLAYER0,SPEECH,"lvlspe40.ogg")
 	QUICK_INFORMATION(26,"The Black Knight is a truly terrifying warrior. Within its deadly armour lies a warrior of the blackest heart. Although he has no spells, at close range they are your most deadly warriors.")
 ENDIF

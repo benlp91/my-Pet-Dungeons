@@ -370,7 +370,7 @@ ENDIF
 REM PL3,FLAG5 active music track
 rem value 2: dk2track02.mp3
 rem value 4: dk2track04.mp3
-SET_MUSIC("dk2track01.mp3")
+SET_MUSIC("dk2track02.mp3")
 SET_FLAG(PLAYER3,FLAG5,2)
 
 IF(PLAYER3,FLAG5 != 4)
@@ -404,7 +404,7 @@ IF(PLAYER3,TIMER7 > 300)
 	IF(PLAYER3,TIMER5 > 100)
 		IF(PLAYER3,FLAG5 != 2)
 			NEXT_COMMAND_REUSABLE
-			SET_MUSIC("dk2track01.mp3")
+			SET_MUSIC("dk2track02.mp3")
 			NEXT_COMMAND_REUSABLE
 			SET_FLAG(PLAYER3,FLAG5,2)
 		ENDIF

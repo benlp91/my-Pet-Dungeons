@@ -24,4 +24,4 @@ Pet_Dungeons.cfg
 
 4.Move all 5 files into the following directory in your KeeperFX installation: -KeeperFX/levels
 
-Launch KeeperFX and your campaign should now be available to play!
+Launch KeeperFX and your Map Pack should now be available to play!
